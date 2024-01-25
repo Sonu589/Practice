@@ -1,0 +1,1 @@
+Git particular folder ko track nahi kar raha isko track karne ke liye git init karna hoga
