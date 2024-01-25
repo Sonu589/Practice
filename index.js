@@ -14,6 +14,6 @@ function isAbove18(){
     return age>=18
 }
 function newFeatureAdd(){
-    console.log("This is a new Feature")
-    console.log("New Feature added again")
+    console.log("This is a new Feat")
+    console.log("This is a new Feat B")
 }
